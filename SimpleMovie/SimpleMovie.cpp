@@ -4,7 +4,6 @@
 #include <tchar.h>
 #include <intrin.h>
 #include <stdexcept>
-#include <iostream>
 #include <Shlwapi.h>
 #include <mfapi.h>
 #include <mfidl.h>
